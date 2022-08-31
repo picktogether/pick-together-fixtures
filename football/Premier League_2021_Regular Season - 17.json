@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 710716,
-            "referee": "A. Taylor",
+            "referee": "AB. Taylor",
             "timezone": "UTC",
             "date": "2021-12-15T20:00:00+00:00",
             "timestamp": 1639598400,
@@ -13,7 +13,7 @@
             "venue": {
                 "id": 494,
                 "name": "Emirates Stadium",
-                "city": "London"
+                "city": "London "
             },
             "status": {
                 "long": "Match Finished",
