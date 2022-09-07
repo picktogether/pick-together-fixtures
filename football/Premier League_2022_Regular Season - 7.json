@@ -5,7 +5,7 @@
             "referee": null,
             "timezone": "UTC",
             "date": "2022-09-10T14:00:00+00:00",
-            "timestamp": 1662818400,
+            "timestamp": 1662523710,
             "periods": {
                 "first": null,
                 "second": null
@@ -45,8 +45,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
@@ -73,7 +73,7 @@
             "referee": null,
             "timezone": "UTC",
             "date": "2022-09-11T13:00:00+00:00",
-            "timestamp": 1662901200,
+            "timestamp": 1662523710,
             "periods": {
                 "first": null,
                 "second": null
@@ -84,8 +84,8 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
+                "long": "First Half, Kick Off",
+                "short": "1H",
                 "elapsed": null
             }
         },
@@ -141,7 +141,7 @@
             "referee": null,
             "timezone": "UTC",
             "date": "2022-09-11T15:30:00+00:00",
-            "timestamp": 1662910200,
+            "timestamp": 1662523710,
             "periods": {
                 "first": null,
                 "second": null
@@ -152,7 +152,7 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
+                "long": "Full Time",
                 "short": "NS",
                 "elapsed": null
             }
@@ -181,8 +181,8 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
