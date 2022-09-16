@@ -8,7 +8,7 @@
             "timestamp": 1663354800,
             "periods": {
                 "first": 1663354800,
-                "second": null
+                "second": 1663358400
             },
             "venue": {
                 "id": 495,
@@ -16,9 +16,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 8
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50
             }
         },
         "league": {
@@ -35,22 +35,22 @@
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -484,7 +484,7 @@
             "timestamp": 1663354800,
             "periods": {
                 "first": 1663354800,
-                "second": null
+                "second": 1663358400
             },
             "venue": {
                 "id": 566,
@@ -492,9 +492,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 8
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 52
             }
         },
         "league": {
@@ -511,22 +511,22 @@
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
