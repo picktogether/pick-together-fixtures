@@ -7,7 +7,7 @@
             "date": "2022-09-16T19:00:00+00:00",
             "timestamp": 1663354800,
             "periods": {
-                "first": null,
+                "first": 1663354800,
                 "second": null
             },
             "venue": {
@@ -16,9 +16,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 8
             }
         },
         "league": {
@@ -45,13 +45,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -483,7 +483,7 @@
             "date": "2022-09-16T19:00:00+00:00",
             "timestamp": 1663354800,
             "periods": {
-                "first": null,
+                "first": 1663354800,
                 "second": null
             },
             "venue": {
@@ -492,9 +492,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 8
             }
         },
         "league": {
@@ -521,13 +521,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
