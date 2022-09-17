@@ -551,7 +551,7 @@
             "date": "2022-09-17T16:30:00+00:00",
             "timestamp": 1663432200,
             "periods": {
-                "first": null,
+                "first": 1663432200,
                 "second": null
             },
             "venue": {
@@ -560,9 +560,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -589,13 +589,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
