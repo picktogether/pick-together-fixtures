@@ -416,7 +416,7 @@
             "timestamp": 1663423200,
             "periods": {
                 "first": 1663423200,
-                "second": null
+                "second": 1663426800
             },
             "venue": {
                 "id": 562,
@@ -424,9 +424,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 24
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 64
             }
         },
         "league": {
@@ -443,18 +443,18 @@
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
