@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 868022,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-09-17T14:00:00+00:00",
             "timestamp": 1663423200,
@@ -620,7 +620,7 @@
             "timestamp": 1663414200,
             "periods": {
                 "first": 1663414200,
-                "second": null
+                "second": 1663417800
             },
             "venue": {
                 "id": 600,
@@ -628,9 +628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -658,7 +658,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -666,8 +666,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 3
             },
             "extratime": {
                 "home": null,
