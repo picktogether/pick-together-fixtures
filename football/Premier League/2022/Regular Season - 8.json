@@ -546,13 +546,13 @@
     {
         "fixture": {
             "id": 868024,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-09-17T16:30:00+00:00",
             "timestamp": 1663432200,
             "periods": {
                 "first": 1663432200,
-                "second": null
+                "second": 1663435800
             },
             "venue": {
                 "id": 593,
@@ -560,9 +560,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -579,17 +579,17 @@
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 2,
+            "home": 6,
             "away": 2
         },
         "score": {
@@ -598,8 +598,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 6,
+                "away": 2
             },
             "extratime": {
                 "home": null,
