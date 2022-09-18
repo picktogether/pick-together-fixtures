@@ -76,7 +76,7 @@
             "timestamp": 1663498800,
             "periods": {
                 "first": 1663498800,
-                "second": null
+                "second": 1663502400
             },
             "venue": {
                 "id": 10503,
@@ -84,9 +84,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 44
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 87
             }
         },
         "league": {
@@ -114,7 +114,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 868020,
-            "referee": "M. Oliver",
+            "referee": "Michael Oliver, England",
             "timezone": "UTC",
             "date": "2022-09-18T13:15:00+00:00",
             "timestamp": 1663506900,
