@@ -280,7 +280,7 @@
             "timestamp": 1663506900,
             "periods": {
                 "first": 1663506900,
-                "second": null
+                "second": 1663510500
             },
             "venue": {
                 "id": 8560,
@@ -288,9 +288,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 31
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 75
             }
         },
         "league": {
@@ -307,17 +307,17 @@
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
