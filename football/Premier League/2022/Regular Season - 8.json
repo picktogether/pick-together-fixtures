@@ -75,7 +75,7 @@
             "date": "2022-09-18T11:00:00+00:00",
             "timestamp": 1663498800,
             "periods": {
-                "first": null,
+                "first": 1663498800,
                 "second": null
             },
             "venue": {
@@ -84,9 +84,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 44
             }
         },
         "league": {
@@ -103,23 +103,23 @@
                 "id": 55,
                 "name": "Brentford",
                 "logo": "https://media.api-sports.io/football/teams/55.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
