@@ -84,9 +84,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 87
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -122,8 +122,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 3
             },
             "extratime": {
                 "home": null,
@@ -279,7 +279,7 @@
             "date": "2022-09-18T13:15:00+00:00",
             "timestamp": 1663506900,
             "periods": {
-                "first": null,
+                "first": 1663506900,
                 "second": null
             },
             "venue": {
@@ -288,9 +288,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 31
             }
         },
         "league": {
@@ -317,13 +317,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
