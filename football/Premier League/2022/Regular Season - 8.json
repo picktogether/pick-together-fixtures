@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 868016,
-            "referee": "Tony Harrington, England",
+            "referee": "T. Harrington",
             "timezone": "UTC",
             "date": "2022-09-16T19:00:00+00:00",
             "timestamp": 1663354800,
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 868017,
-            "referee": "David Coote, England",
+            "referee": "D. Coote",
             "timezone": "UTC",
             "date": "2022-09-18T11:00:00+00:00",
             "timestamp": 1663498800,
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 868022,
-            "referee": "Craig Pawson, England",
+            "referee": "C. Pawson",
             "timezone": "UTC",
             "date": "2022-09-17T14:00:00+00:00",
             "timestamp": 1663423200,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 868023,
-            "referee": "Jarred Gillett, Australia",
+            "referee": "J. Gillett",
             "timezone": "UTC",
             "date": "2022-09-16T19:00:00+00:00",
             "timestamp": 1663354800,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 868024,
-            "referee": "Simon Hooper, England",
+            "referee": "S. Hooper",
             "timezone": "UTC",
             "date": "2022-09-17T16:30:00+00:00",
             "timestamp": 1663432200,
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868025,
-            "referee": "Anthony Taylor, England",
+            "referee": "A. Taylor",
             "timezone": "UTC",
             "date": "2022-09-17T11:30:00+00:00",
             "timestamp": 1663414200,
