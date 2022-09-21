@@ -1,0 +1,682 @@
+[
+    {
+        "fixture": {
+            "id": 710796,
+            "referee": "S. Hooper",
+            "timezone": "UTC",
+            "date": "2022-02-12T15:00:00+00:00",
+            "timestamp": 1644678000,
+            "periods": {
+                "first": 1644678000,
+                "second": 1644681600
+            },
+            "venue": {
+                "id": 10503,
+                "name": "Brentford Community Stadium",
+                "city": "Brentford, Middlesex"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 55,
+                "name": "Brentford",
+                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "winner": null
+            },
+            "away": {
+                "id": 52,
+                "name": "Crystal Palace",
+                "logo": "https://media.api-sports.io/football/teams/52.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710797,
+            "referee": "M. Atkinson",
+            "timezone": "UTC",
+            "date": "2022-02-13T14:00:00+00:00",
+            "timestamp": 1644760800,
+            "periods": {
+                "first": 1644760800,
+                "second": 1644764400
+            },
+            "venue": {
+                "id": 512,
+                "name": "Turf Moor",
+                "city": "Burnley"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 44,
+                "name": "Burnley",
+                "logo": "https://media.api-sports.io/football/teams/44.png",
+                "winner": false
+            },
+            "away": {
+                "id": 40,
+                "name": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 1
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710798,
+            "referee": "J. Moss",
+            "timezone": "UTC",
+            "date": "2022-04-20T18:45:00+00:00",
+            "timestamp": 1650480300,
+            "periods": {
+                "first": 1650480300,
+                "second": 1650483900
+            },
+            "venue": {
+                "id": 519,
+                "name": "Stamford Bridge",
+                "city": "London"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 49,
+                "name": "Chelsea",
+                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "winner": false
+            },
+            "away": {
+                "id": 42,
+                "name": "Arsenal",
+                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 4
+        },
+        "score": {
+            "halftime": {
+                "home": 2,
+                "away": 2
+            },
+            "fulltime": {
+                "home": 2,
+                "away": 4
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710799,
+            "referee": "G. Scott",
+            "timezone": "UTC",
+            "date": "2022-02-12T15:00:00+00:00",
+            "timestamp": 1644678000,
+            "periods": {
+                "first": 1644678000,
+                "second": 1644681600
+            },
+            "venue": {
+                "id": 8560,
+                "name": "Goodison Park",
+                "city": "Liverpool"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 45,
+                "name": "Everton",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "winner": true
+            },
+            "away": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 3,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 2,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 3,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710800,
+            "referee": "M. Oliver",
+            "timezone": "UTC",
+            "date": "2022-02-13T16:30:00+00:00",
+            "timestamp": 1644769800,
+            "periods": {
+                "first": 1644769800,
+                "second": 1644773400
+            },
+            "venue": {
+                "id": 547,
+                "name": "King Power Stadium",
+                "city": "Leicester, Leicestershire"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "winner": null
+            },
+            "away": {
+                "id": 48,
+                "name": "West Ham",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 2,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 2,
+                "away": 2
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710801,
+            "referee": "S. Attwell",
+            "timezone": "UTC",
+            "date": "2022-02-12T12:30:00+00:00",
+            "timestamp": 1644669000,
+            "periods": {
+                "first": 1644669000,
+                "second": 1644672600
+            },
+            "venue": {
+                "id": 556,
+                "name": "Old Trafford",
+                "city": "Manchester"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "winner": null
+            },
+            "away": {
+                "id": 41,
+                "name": "Southampton",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 1
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 1,
+                "away": 1
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710802,
+            "referee": "C. Pawson",
+            "timezone": "UTC",
+            "date": "2022-02-13T14:00:00+00:00",
+            "timestamp": 1644760800,
+            "periods": {
+                "first": 1644760800,
+                "second": 1644764400
+            },
+            "venue": {
+                "id": 562,
+                "name": "St. James' Park",
+                "city": "Newcastle upon Tyne"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "winner": true
+            },
+            "away": {
+                "id": 66,
+                "name": "Aston Villa",
+                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "winner": false
+            }
+        },
+        "goals": {
+            "home": 1,
+            "away": 0
+        },
+        "score": {
+            "halftime": {
+                "home": 1,
+                "away": 0
+            },
+            "fulltime": {
+                "home": 1,
+                "away": 0
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710803,
+            "referee": "A. Marriner",
+            "timezone": "UTC",
+            "date": "2022-02-12T17:30:00+00:00",
+            "timestamp": 1644687000,
+            "periods": {
+                "first": 1644687000,
+                "second": 1644690600
+            },
+            "venue": {
+                "id": 565,
+                "name": "Carrow Road",
+                "city": "Norwich, Norfolk"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 71,
+                "name": "Norwich",
+                "logo": "https://media.api-sports.io/football/teams/71.png",
+                "winner": false
+            },
+            "away": {
+                "id": 50,
+                "name": "Manchester City",
+                "logo": "https://media.api-sports.io/football/teams/50.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 4
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 4
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710804,
+            "referee": "K. Friend",
+            "timezone": "UTC",
+            "date": "2022-02-13T14:00:00+00:00",
+            "timestamp": 1644760800,
+            "periods": {
+                "first": 1644760800,
+                "second": 1644764400
+            },
+            "venue": {
+                "id": 593,
+                "name": "Tottenham Hotspur Stadium",
+                "city": "London"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "winner": false
+            },
+            "away": {
+                "id": 39,
+                "name": "Wolves",
+                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 2
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 2
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 710805,
+            "referee": "J. Moss",
+            "timezone": "UTC",
+            "date": "2022-02-12T15:00:00+00:00",
+            "timestamp": 1644678000,
+            "periods": {
+                "first": 1644678000,
+                "second": 1644681600
+            },
+            "venue": {
+                "id": 596,
+                "name": "Vicarage Road",
+                "city": "Watford"
+            },
+            "status": {
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2021,
+            "round": "Regular Season - 25"
+        },
+        "teams": {
+            "home": {
+                "id": 38,
+                "name": "Watford",
+                "logo": "https://media.api-sports.io/football/teams/38.png",
+                "winner": false
+            },
+            "away": {
+                "id": 51,
+                "name": "Brighton",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
+                "winner": true
+            }
+        },
+        "goals": {
+            "home": 0,
+            "away": 2
+        },
+        "score": {
+            "halftime": {
+                "home": 0,
+                "away": 1
+            },
+            "fulltime": {
+                "home": 0,
+                "away": 2
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]
