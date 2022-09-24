@@ -1,0 +1,70 @@
+[
+    {
+        "fixture": {
+            "id": 868071,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-10-22T11:30:00+00:00",
+            "timestamp": 1666438200,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 566,
+                "name": "The City Ground",
+                "city": "Nottingham, Nottinghamshire"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 13"
+        },
+        "teams": {
+            "home": {
+                "id": 65,
+                "name": "Nottingham Forest",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "winner": null
+            },
+            "away": {
+                "id": 40,
+                "name": "Liverpool",
+                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]
