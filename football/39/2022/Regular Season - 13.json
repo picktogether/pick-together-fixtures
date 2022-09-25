@@ -477,6 +477,74 @@
     },
     {
         "fixture": {
+            "id": 868073,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-10-23T15:30:00+00:00",
+            "timestamp": 1666539000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 593,
+                "name": "Tottenham Hotspur Stadium",
+                "city": "London"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 13"
+        },
+        "teams": {
+            "home": {
+                "id": 47,
+                "name": "Tottenham",
+                "logo": "https://media.api-sports.io/football/teams/47.png",
+                "winner": null
+            },
+            "away": {
+                "id": 34,
+                "name": "Newcastle",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 868075,
             "referee": null,
             "timezone": "UTC",
