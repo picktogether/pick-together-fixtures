@@ -5447,7 +5447,7 @@
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
             "periods": {
-                "first": null,
+                "first": 1664632800,
                 "second": null
             },
             "venue": {
@@ -5456,9 +5456,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 25
             }
         },
         "league": {
@@ -5485,13 +5485,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -5583,7 +5583,7 @@
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
             "periods": {
-                "first": null,
+                "first": 1664632800,
                 "second": null
             },
             "venue": {
@@ -5592,9 +5592,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 24
             }
         },
         "league": {
@@ -5611,23 +5611,23 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
                 "logo": "https://media.api-sports.io/football/teams/49.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -5651,7 +5651,7 @@
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
             "periods": {
-                "first": null,
+                "first": 1664632800,
                 "second": null
             },
             "venue": {
@@ -5660,9 +5660,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 24
             }
         },
         "league": {
@@ -5679,23 +5679,23 @@
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -5855,7 +5855,7 @@
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
             "periods": {
-                "first": null,
+                "first": 1664632800,
                 "second": null
             },
             "venue": {
@@ -5864,9 +5864,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 25
             }
         },
         "league": {
@@ -5883,23 +5883,23 @@
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -5991,7 +5991,7 @@
             "date": "2022-10-01T14:00:00+00:00",
             "timestamp": 1664632800,
             "periods": {
-                "first": null,
+                "first": 1664632800,
                 "second": null
             },
             "venue": {
@@ -6000,9 +6000,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 25
             }
         },
         "league": {
@@ -6029,13 +6029,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
