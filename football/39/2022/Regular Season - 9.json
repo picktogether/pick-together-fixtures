@@ -8,7 +8,7 @@
             "timestamp": 1664632800,
             "periods": {
                 "first": 1664632800,
-                "second": null
+                "second": 1664636400
             },
             "venue": {
                 "id": 504,
@@ -16,9 +16,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66
             }
         },
         "league": {
@@ -144,7 +144,7 @@
             "timestamp": 1664632800,
             "periods": {
                 "first": 1664632800,
-                "second": null
+                "second": 1664636400
             },
             "venue": {
                 "id": 525,
@@ -152,9 +152,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 24
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 63
             }
         },
         "league": {
@@ -171,23 +171,23 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
                 "logo": "https://media.api-sports.io/football/teams/49.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 1,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -212,7 +212,7 @@
             "timestamp": 1664632800,
             "periods": {
                 "first": 1664632800,
-                "second": null
+                "second": 1664636400
             },
             "venue": {
                 "id": 535,
@@ -220,9 +220,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 24
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66
             }
         },
         "league": {
@@ -250,12 +250,12 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 4
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 1
+                "away": 3
             },
             "fulltime": {
                 "home": null,
@@ -416,7 +416,7 @@
             "timestamp": 1664632800,
             "periods": {
                 "first": 1664632800,
-                "second": null
+                "second": 1664636400
             },
             "venue": {
                 "id": 550,
@@ -424,9 +424,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 68
             }
         },
         "league": {
@@ -443,22 +443,22 @@
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": false
+                "winner": true
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": true
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 3,
             "away": 2
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 2
             },
             "fulltime": {
@@ -552,7 +552,7 @@
             "timestamp": 1664632800,
             "periods": {
                 "first": 1664632800,
-                "second": null
+                "second": 1664636400
             },
             "venue": {
                 "id": 585,
@@ -560,9 +560,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 25
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 70
             }
         },
         "league": {
@@ -579,18 +579,18 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
