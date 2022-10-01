@@ -9320,8 +9320,8 @@
             "id": 868083,
             "referee": null,
             "timezone": "UTC",
-            "date": "2022-10-29T13:00:00+00:00",
-            "timestamp": 1667048400,
+            "date": "2022-10-29T18:45:00+00:00",
+            "timestamp": 1667069100,
             "periods": {
                 "first": null,
                 "second": null
@@ -9332,8 +9332,8 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Time to be defined",
-                "short": "TBD",
+                "long": "Not Started",
+                "short": "NS",
                 "elapsed": null
             }
         },
@@ -9388,8 +9388,8 @@
             "id": 868084,
             "referee": null,
             "timezone": "UTC",
-            "date": "2022-10-30T15:30:00+00:00",
-            "timestamp": 1667143800,
+            "date": "2022-10-30T15:15:00+00:00",
+            "timestamp": 1667142900,
             "periods": {
                 "first": null,
                 "second": null
