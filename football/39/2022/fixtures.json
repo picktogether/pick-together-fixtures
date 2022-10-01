@@ -5458,7 +5458,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 25
+                "elapsed": 36
             }
         },
         "league": {
@@ -5594,7 +5594,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 24
+                "elapsed": 35
             }
         },
         "league": {
@@ -5662,7 +5662,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 24
+                "elapsed": 35
             }
         },
         "league": {
@@ -5690,12 +5690,12 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 1
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -5866,7 +5866,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 25
+                "elapsed": 36
             }
         },
         "league": {
@@ -5893,12 +5893,12 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 2
             },
             "fulltime": {
@@ -6002,7 +6002,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 25
+                "elapsed": 36
             }
         },
         "league": {
