@@ -5932,9 +5932,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 89
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -5962,7 +5962,7 @@
         },
         "goals": {
             "home": 6,
-            "away": 2
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -5970,8 +5970,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 6,
+                "away": 3
             },
             "extratime": {
                 "home": null,
