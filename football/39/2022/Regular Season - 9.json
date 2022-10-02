@@ -279,7 +279,7 @@
             "date": "2022-10-02T15:30:00+00:00",
             "timestamp": 1664724600,
             "periods": {
-                "first": null,
+                "first": 1664724600,
                 "second": null
             },
             "venue": {
@@ -288,9 +288,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 18
             }
         },
         "league": {
@@ -317,13 +317,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -492,9 +492,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 89
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -522,7 +522,7 @@
         },
         "goals": {
             "home": 6,
-            "away": 2
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -530,8 +530,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 6,
+                "away": 3
             },
             "extratime": {
                 "home": null,
