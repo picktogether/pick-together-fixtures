@@ -5788,7 +5788,7 @@
             "timestamp": 1664823600,
             "periods": {
                 "first": 1664823600,
-                "second": null
+                "second": 1664827200
             },
             "venue": {
                 "id": 547,
@@ -5796,9 +5796,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 28
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 59
             }
         },
         "league": {
@@ -5825,12 +5825,12 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 2,
+                "home": 3,
                 "away": 0
             },
             "fulltime": {
