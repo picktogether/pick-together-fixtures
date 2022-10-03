@@ -347,7 +347,7 @@
             "date": "2022-10-03T19:00:00+00:00",
             "timestamp": 1664823600,
             "periods": {
-                "first": null,
+                "first": 1664823600,
                 "second": null
             },
             "venue": {
@@ -356,9 +356,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 28
             }
         },
         "league": {
@@ -375,23 +375,23 @@
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
