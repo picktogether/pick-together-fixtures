@@ -5798,7 +5798,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 15
+                "elapsed": 28
             }
         },
         "league": {
@@ -5815,22 +5815,22 @@
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 2,
                 "away": 0
             },
             "fulltime": {
