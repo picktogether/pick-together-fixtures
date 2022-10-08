@@ -6263,7 +6263,7 @@
             "date": "2022-10-08T16:30:00+00:00",
             "timestamp": 1665246600,
             "periods": {
-                "first": null,
+                "first": 1665246600,
                 "second": null
             },
             "venue": {
@@ -6272,9 +6272,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 38
             }
         },
         "league": {
@@ -6291,23 +6291,23 @@
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
