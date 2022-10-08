@@ -6127,7 +6127,7 @@
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
             "periods": {
-                "first": null,
+                "first": 1665237600,
                 "second": null
             },
             "venue": {
@@ -6136,9 +6136,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 6
             }
         },
         "league": {
@@ -6165,13 +6165,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -6331,7 +6331,7 @@
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
             "periods": {
-                "first": null,
+                "first": 1665237600,
                 "second": null
             },
             "venue": {
@@ -6340,9 +6340,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 6
             }
         },
         "league": {
@@ -6369,13 +6369,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -6535,7 +6535,7 @@
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
             "periods": {
-                "first": null,
+                "first": 1665237600,
                 "second": null
             },
             "venue": {
@@ -6544,9 +6544,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 6
             }
         },
         "league": {
@@ -6573,13 +6573,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -6603,7 +6603,7 @@
             "date": "2022-10-08T14:00:00+00:00",
             "timestamp": 1665237600,
             "periods": {
-                "first": null,
+                "first": 1665237600,
                 "second": null
             },
             "venue": {
@@ -6612,9 +6612,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 6
             }
         },
         "league": {
@@ -6641,13 +6641,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
