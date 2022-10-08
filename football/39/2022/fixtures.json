@@ -6258,13 +6258,13 @@
     {
         "fixture": {
             "id": 868038,
-            "referee": "T. Harrington",
+            "referee": "Tony Harrington, England",
             "timezone": "UTC",
             "date": "2022-10-08T16:30:00+00:00",
             "timestamp": 1665246600,
             "periods": {
                 "first": 1665246600,
-                "second": null
+                "second": 1665250200
             },
             "venue": {
                 "id": 508,
@@ -6272,9 +6272,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 83
             }
         },
         "league": {
