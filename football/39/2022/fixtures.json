@@ -6138,7 +6138,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 6
+                "elapsed": 20
             }
         },
         "league": {
@@ -6155,23 +6155,23 @@
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -6342,7 +6342,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 6
+                "elapsed": 20
             }
         },
         "league": {
@@ -6546,7 +6546,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 6
+                "elapsed": 20
             }
         },
         "league": {
@@ -6614,7 +6614,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 6
+                "elapsed": 19
             }
         },
         "league": {
