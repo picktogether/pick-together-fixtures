@@ -6138,7 +6138,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 49
+                "elapsed": 63
             }
         },
         "league": {
@@ -6342,7 +6342,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 48
+                "elapsed": 63
             }
         },
         "league": {
@@ -6369,7 +6369,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -6546,7 +6546,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 49
+                "elapsed": 63
             }
         },
         "league": {
@@ -6573,7 +6573,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -6614,7 +6614,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 49
+                "elapsed": 63
             }
         },
         "league": {
@@ -6641,8 +6641,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
