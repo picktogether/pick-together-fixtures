@@ -1,6 +1,74 @@
 [
     {
         "fixture": {
+            "id": 868088,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-11-05T17:30:00+00:00",
+            "timestamp": 1667669400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 8560,
+                "name": "Goodison Park",
+                "city": "Liverpool"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 15"
+        },
+        "teams": {
+            "home": {
+                "id": 45,
+                "name": "Everton",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "winner": null
+            },
+            "away": {
+                "id": 46,
+                "name": "Leicester",
+                "logo": "https://media.api-sports.io/football/teams/46.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 868089,
             "referee": null,
             "timezone": "UTC",
