@@ -72,8 +72,8 @@
             "id": 868067,
             "referee": null,
             "timezone": "UTC",
-            "date": "2022-10-22T15:30:00+00:00",
-            "timestamp": 1666452600,
+            "date": "2022-10-22T16:30:00+00:00",
+            "timestamp": 1666456200,
             "periods": {
                 "first": null,
                 "second": null
@@ -84,8 +84,8 @@
                 "city": "London"
             },
             "status": {
-                "long": "Time to be defined",
-                "short": "TBD",
+                "long": "Not Started",
+                "short": "NS",
                 "elapsed": null
             }
         },
