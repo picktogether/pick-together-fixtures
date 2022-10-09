@@ -6467,7 +6467,7 @@
             "date": "2022-10-09T18:00:00+00:00",
             "timestamp": 1665338400,
             "periods": {
-                "first": null,
+                "first": 1665338400,
                 "second": null
             },
             "venue": {
@@ -6476,9 +6476,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 34
             }
         },
         "league": {
@@ -6505,13 +6505,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
