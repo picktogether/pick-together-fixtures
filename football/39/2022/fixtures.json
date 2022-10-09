@@ -6410,7 +6410,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 67
+                "elapsed": 82
             }
         },
         "league": {
@@ -6427,17 +6427,17 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
         },
         "score": {
@@ -6750,7 +6750,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 71
+                "elapsed": 86
             }
         },
         "league": {
