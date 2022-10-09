@@ -6399,7 +6399,7 @@
             "date": "2022-10-09T13:00:00+00:00",
             "timestamp": 1665320400,
             "periods": {
-                "first": null,
+                "first": 1665320400,
                 "second": null
             },
             "venue": {
@@ -6408,9 +6408,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 29
             }
         },
         "league": {
@@ -6437,13 +6437,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -6739,7 +6739,7 @@
             "date": "2022-10-09T13:00:00+00:00",
             "timestamp": 1665320400,
             "periods": {
-                "first": null,
+                "first": 1665320400,
                 "second": null
             },
             "venue": {
@@ -6748,9 +6748,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 29
             }
         },
         "league": {
@@ -6767,23 +6767,23 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
