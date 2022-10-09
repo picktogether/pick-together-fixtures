@@ -6410,7 +6410,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 29
+                "elapsed": 43
             }
         },
         "league": {
@@ -6750,7 +6750,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 29
+                "elapsed": 44
             }
         },
         "league": {
@@ -6767,22 +6767,22 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": false
+                "winner": null
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": true
+                "winner": null
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 1
             },
             "fulltime": {
