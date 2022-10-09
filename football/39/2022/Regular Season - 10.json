@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868041,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-10-09T18:00:00+00:00",
             "timestamp": 1665338400,
@@ -356,9 +356,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 77
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -394,8 +394,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
