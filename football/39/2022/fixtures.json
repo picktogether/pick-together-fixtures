@@ -6671,7 +6671,7 @@
             "date": "2022-10-10T19:00:00+00:00",
             "timestamp": 1665428400,
             "periods": {
-                "first": null,
+                "first": 1665428400,
                 "second": null
             },
             "venue": {
@@ -6680,9 +6680,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 13
             }
         },
         "league": {
@@ -6709,13 +6709,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
