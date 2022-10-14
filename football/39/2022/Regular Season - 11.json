@@ -75,7 +75,7 @@
             "date": "2022-10-14T19:00:00+00:00",
             "timestamp": 1665774000,
             "periods": {
-                "first": null,
+                "first": 1665774000,
                 "second": null
             },
             "venue": {
@@ -84,9 +84,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 34
             }
         },
         "league": {
@@ -103,23 +103,23 @@
                 "id": 55,
                 "name": "Brentford",
                 "logo": "https://media.api-sports.io/football/teams/55.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
