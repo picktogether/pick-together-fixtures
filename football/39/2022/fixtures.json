@@ -6944,7 +6944,7 @@
             "timestamp": 1665842400,
             "periods": {
                 "first": 1665842400,
-                "second": null
+                "second": 1665846000
             },
             "venue": {
                 "id": 535,
@@ -6952,9 +6952,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47
             }
         },
         "league": {
@@ -7420,7 +7420,7 @@
             "timestamp": 1665842400,
             "periods": {
                 "first": 1665842400,
-                "second": null
+                "second": 1665846000
             },
             "venue": {
                 "id": 600,
@@ -7428,9 +7428,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50
             }
         },
         "league": {
