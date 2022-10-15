@@ -546,12 +546,12 @@
     {
         "fixture": {
             "id": 868054,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-10-15T16:30:00+00:00",
             "timestamp": 1665851400,
             "periods": {
-                "first": null,
+                "first": 1665851400,
                 "second": null
             },
             "venue": {
@@ -560,9 +560,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 37
             }
         },
         "league": {
@@ -589,13 +589,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
