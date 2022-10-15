@@ -7080,7 +7080,7 @@
             "timestamp": 1665833400,
             "periods": {
                 "first": 1665833400,
-                "second": null
+                "second": 1665837000
             },
             "venue": {
                 "id": 547,
@@ -7088,9 +7088,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 33
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 63
             }
         },
         "league": {
