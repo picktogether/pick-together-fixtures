@@ -6943,7 +6943,7 @@
             "date": "2022-10-15T14:00:00+00:00",
             "timestamp": 1665842400,
             "periods": {
-                "first": null,
+                "first": 1665842400,
                 "second": null
             },
             "venue": {
@@ -6952,9 +6952,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5
             }
         },
         "league": {
@@ -6971,23 +6971,23 @@
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -7419,7 +7419,7 @@
             "date": "2022-10-15T14:00:00+00:00",
             "timestamp": 1665842400,
             "periods": {
-                "first": null,
+                "first": 1665842400,
                 "second": null
             },
             "venue": {
@@ -7428,9 +7428,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5
             }
         },
         "league": {
@@ -7457,13 +7457,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
