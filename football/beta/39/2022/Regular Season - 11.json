@@ -144,7 +144,7 @@
             "timestamp": 1665842400,
             "periods": {
                 "first": 1665842400,
-                "second": null
+                "second": 1665846000
             },
             "venue": {
                 "id": 535,
@@ -152,9 +152,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 5
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47
             }
         },
         "league": {
@@ -181,13 +181,13 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 1
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 1
+                "home": 1,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -620,7 +620,7 @@
             "timestamp": 1665842400,
             "periods": {
                 "first": 1665842400,
-                "second": null
+                "second": 1665846000
             },
             "venue": {
                 "id": 600,
@@ -628,9 +628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 5
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 50
             }
         },
         "league": {
