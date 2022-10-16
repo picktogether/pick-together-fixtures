@@ -7148,7 +7148,7 @@
             "timestamp": 1665934200,
             "periods": {
                 "first": 1665934200,
-                "second": null
+                "second": 1665937800
             },
             "venue": {
                 "id": 550,
@@ -7156,9 +7156,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -7175,17 +7175,17 @@
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
                 "logo": "https://media.api-sports.io/football/teams/50.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
