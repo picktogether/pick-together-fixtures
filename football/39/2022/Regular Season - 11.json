@@ -220,9 +220,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 80
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -258,8 +258,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -347,7 +347,7 @@
             "date": "2022-10-16T15:30:00+00:00",
             "timestamp": 1665934200,
             "periods": {
-                "first": null,
+                "first": 1665934200,
                 "second": null
             },
             "venue": {
@@ -356,9 +356,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -385,13 +385,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
