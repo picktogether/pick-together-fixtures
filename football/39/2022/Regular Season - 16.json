@@ -137,6 +137,74 @@
     },
     {
         "fixture": {
+            "id": 868098,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-11-13T16:30:00+00:00",
+            "timestamp": 1668357000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 535,
+                "name": "Craven Cottage",
+                "city": "London"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 16"
+        },
+        "teams": {
+            "home": {
+                "id": 36,
+                "name": "Fulham",
+                "logo": "https://media.api-sports.io/football/teams/36.png",
+                "winner": null
+            },
+            "away": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 868099,
             "referee": null,
             "timezone": "UTC",
