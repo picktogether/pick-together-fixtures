@@ -6818,7 +6818,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 13
+                "elapsed": 27
             }
         },
         "league": {
@@ -7226,7 +7226,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 14
+                "elapsed": 27
             }
         },
         "league": {
@@ -7294,7 +7294,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 15
+                "elapsed": 29
             }
         },
         "league": {
@@ -7311,22 +7311,22 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
