@@ -16,9 +16,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 69
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -54,8 +54,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -212,7 +212,7 @@
             "timestamp": 1665925200,
             "periods": {
                 "first": 1665925200,
-                "second": null
+                "second": 1665928800
             },
             "venue": {
                 "id": 546,
@@ -220,9 +220,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868051,
-            "referee": "A. Taylor",
+            "referee": "Anthony Taylor, England",
             "timezone": "UTC",
             "date": "2022-10-16T15:30:00+00:00",
             "timestamp": 1665934200,
@@ -424,9 +424,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 69
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -462,8 +462,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -492,9 +492,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 70
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -530,8 +530,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
                 "home": null,
