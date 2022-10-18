@@ -211,7 +211,7 @@
             "date": "2022-10-18T18:30:00+00:00",
             "timestamp": 1666117800,
             "periods": {
-                "first": null,
+                "first": 1666117800,
                 "second": null
             },
             "venue": {
@@ -220,9 +220,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 36
             }
         },
         "league": {
@@ -249,13 +249,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 868062,
-            "referee": "D. Coote",
+            "referee": "David Coote, England",
             "timezone": "UTC",
             "date": "2022-10-18T19:15:00+00:00",
             "timestamp": 1666120500,
