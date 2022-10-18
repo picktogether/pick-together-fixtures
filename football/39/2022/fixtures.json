@@ -7906,7 +7906,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 48
+                "elapsed": 90
             }
         },
         "league": {
@@ -7923,17 +7923,17 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
                 "logo": "https://media.api-sports.io/football/teams/39.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 1
         },
         "score": {
