@@ -8,7 +8,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 504,
@@ -16,9 +16,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 15
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 59
             }
         },
         "league": {
@@ -144,7 +144,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 10503,
@@ -152,9 +152,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 14
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 57
             }
         },
         "league": {
@@ -484,7 +484,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 562,
@@ -492,9 +492,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 15
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 58
             }
         },
         "league": {
@@ -511,22 +511,22 @@
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -552,7 +552,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 550,
@@ -560,9 +560,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 15
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 57
             }
         },
         "league": {
@@ -579,22 +579,22 @@
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -619,7 +619,7 @@
             "date": "2022-10-19T19:15:00+00:00",
             "timestamp": 1666206900,
             "periods": {
-                "first": null,
+                "first": 1666206900,
                 "second": null
             },
             "venue": {
@@ -628,9 +628,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 30
             }
         },
         "league": {
@@ -657,13 +657,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
