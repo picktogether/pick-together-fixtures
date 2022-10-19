@@ -16,9 +16,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 59
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -54,8 +54,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -152,9 +152,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 57
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -190,8 +190,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -492,9 +492,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 58
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -530,8 +530,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -560,9 +560,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 57
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -598,8 +598,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -620,7 +620,7 @@
             "timestamp": 1666206900,
             "periods": {
                 "first": 1666206900,
-                "second": null
+                "second": 1666210500
             },
             "venue": {
                 "id": 556,
@@ -628,9 +628,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 30
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 74
             }
         },
         "league": {
@@ -647,17 +647,17 @@
                 "id": 33,
                 "name": "Manchester United",
                 "logo": "https://media.api-sports.io/football/teams/33.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         },
         "score": {
