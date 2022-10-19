@@ -7488,7 +7488,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 504,
@@ -7496,9 +7496,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 59
             }
         },
         "league": {
@@ -7624,7 +7624,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 10503,
@@ -7632,9 +7632,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 57
             }
         },
         "league": {
@@ -7964,7 +7964,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 562,
@@ -7972,9 +7972,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 58
             }
         },
         "league": {
@@ -8032,7 +8032,7 @@
             "timestamp": 1666204200,
             "periods": {
                 "first": 1666204200,
-                "second": null
+                "second": 1666207800
             },
             "venue": {
                 "id": 550,
@@ -8040,9 +8040,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 57
             }
         },
         "league": {
@@ -8110,7 +8110,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 16
+                "elapsed": 30
             }
         },
         "league": {
