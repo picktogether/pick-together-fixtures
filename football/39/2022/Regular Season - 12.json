@@ -280,7 +280,7 @@
             "timestamp": 1666290600,
             "periods": {
                 "first": 1666290600,
-                "second": null
+                "second": 1666294200
             },
             "venue": {
                 "id": 535,
@@ -288,9 +288,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 67
             }
         },
         "league": {
@@ -307,22 +307,22 @@
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -347,7 +347,7 @@
             "date": "2022-10-20T19:15:00+00:00",
             "timestamp": 1666293300,
             "periods": {
-                "first": null,
+                "first": 1666293300,
                 "second": null
             },
             "venue": {
@@ -356,9 +356,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 40
             }
         },
         "league": {
@@ -375,23 +375,23 @@
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
