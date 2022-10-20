@@ -7770,7 +7770,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 23
+                "elapsed": 38
             }
         },
         "league": {
@@ -7787,22 +7787,22 @@
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
