@@ -8298,7 +8298,7 @@
     {
         "fixture": {
             "id": 868068,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-10-22T14:00:00+00:00",
             "timestamp": 1666447200,
@@ -8434,7 +8434,7 @@
     {
         "fixture": {
             "id": 868070,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-10-22T14:00:00+00:00",
             "timestamp": 1666447200,
@@ -8516,9 +8516,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 63
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -8554,8 +8554,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
