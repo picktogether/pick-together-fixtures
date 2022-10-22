@@ -348,7 +348,7 @@
             "timestamp": 1666438200,
             "periods": {
                 "first": 1666438200,
-                "second": null
+                "second": 1666441800
             },
             "venue": {
                 "id": 566,
@@ -356,9 +356,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 4
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 48
             }
         },
         "league": {
