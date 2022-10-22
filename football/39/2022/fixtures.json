@@ -8518,7 +8518,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 48
+                "elapsed": 63
             }
         },
         "league": {
@@ -8535,17 +8535,17 @@
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
