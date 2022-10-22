@@ -8314,7 +8314,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 77
+                "elapsed": 90
             }
         },
         "league": {
@@ -8341,7 +8341,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -8450,7 +8450,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 78
+                "elapsed": 90
             }
         },
         "league": {
