@@ -8304,7 +8304,7 @@
             "timestamp": 1666447200,
             "periods": {
                 "first": 1666447200,
-                "second": null
+                "second": 1666450800
             },
             "venue": {
                 "id": 8560,
@@ -8312,9 +8312,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 77
             }
         },
         "league": {
@@ -8341,7 +8341,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 2,
             "away": 0
         },
         "score": {
@@ -8440,7 +8440,7 @@
             "timestamp": 1666447200,
             "periods": {
                 "first": 1666447200,
-                "second": null
+                "second": 1666450800
             },
             "venue": {
                 "id": 555,
@@ -8448,9 +8448,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 78
             }
         },
         "league": {
@@ -8477,8 +8477,8 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
