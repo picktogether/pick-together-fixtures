@@ -8654,7 +8654,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 32
+                "elapsed": 45
             }
         },
         "league": {
@@ -8671,23 +8671,23 @@
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 2
             },
             "fulltime": {
                 "home": null,
