@@ -483,7 +483,7 @@
             "date": "2022-10-23T15:30:00+00:00",
             "timestamp": 1666539000,
             "periods": {
-                "first": null,
+                "first": 1666539000,
                 "second": null
             },
             "venue": {
@@ -492,9 +492,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -511,23 +511,23 @@
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
