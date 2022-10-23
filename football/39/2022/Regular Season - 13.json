@@ -8,7 +8,7 @@
             "timestamp": 1666530000,
             "periods": {
                 "first": 1666530000,
-                "second": null
+                "second": 1666533600
             },
             "venue": {
                 "id": 495,
@@ -16,9 +16,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -45,7 +45,7 @@
             }
         },
         "goals": {
-            "home": 3,
+            "home": 4,
             "away": 0
         },
         "score": {
@@ -54,8 +54,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 4,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -212,7 +212,7 @@
             "timestamp": 1666530000,
             "periods": {
                 "first": 1666530000,
-                "second": null
+                "second": 1666533600
             },
             "venue": {
                 "id": 546,
@@ -220,9 +220,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -239,18 +239,18 @@
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": 1,
-            "away": 1
+            "home": 2,
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -258,8 +258,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 3
             },
             "extratime": {
                 "home": null,
@@ -416,7 +416,7 @@
             "timestamp": 1666530000,
             "periods": {
                 "first": 1666530000,
-                "second": null
+                "second": 1666533600
             },
             "venue": {
                 "id": 585,
@@ -424,9 +424,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -443,17 +443,17 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": false
+                "winner": null
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": true
+                "winner": null
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 1
         },
         "score": {
@@ -462,8 +462,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -620,7 +620,7 @@
             "timestamp": 1666530000,
             "periods": {
                 "first": 1666530000,
-                "second": null
+                "second": 1666533600
             },
             "venue": {
                 "id": 600,
@@ -628,9 +628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -658,7 +658,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 2
+            "away": 4
         },
         "score": {
             "halftime": {
@@ -666,8 +666,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 4
             },
             "extratime": {
                 "home": null,
