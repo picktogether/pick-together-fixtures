@@ -492,9 +492,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 74
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -530,8 +530,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
