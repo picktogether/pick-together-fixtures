@@ -8176,9 +8176,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 12
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -8205,12 +8205,12 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 2,
+                "home": 3,
                 "away": 0
             },
             "fulltime": {
@@ -8380,9 +8380,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 14
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -8409,13 +8409,13 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 0
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -8584,9 +8584,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 14
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -8788,9 +8788,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 13
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -8818,12 +8818,12 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 1
+                "away": 2
             },
             "fulltime": {
                 "home": null,
