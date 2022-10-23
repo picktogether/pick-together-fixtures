@@ -8167,7 +8167,7 @@
             "date": "2022-10-23T13:00:00+00:00",
             "timestamp": 1666530000,
             "periods": {
-                "first": null,
+                "first": 1666530000,
                 "second": null
             },
             "venue": {
@@ -8176,9 +8176,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 12
             }
         },
         "league": {
@@ -8195,23 +8195,23 @@
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 55,
                 "name": "Brentford",
                 "logo": "https://media.api-sports.io/football/teams/55.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -8371,7 +8371,7 @@
             "date": "2022-10-23T13:00:00+00:00",
             "timestamp": 1666530000,
             "periods": {
-                "first": null,
+                "first": 1666530000,
                 "second": null
             },
             "venue": {
@@ -8380,9 +8380,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 14
             }
         },
         "league": {
@@ -8409,13 +8409,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -8575,7 +8575,7 @@
             "date": "2022-10-23T13:00:00+00:00",
             "timestamp": 1666530000,
             "periods": {
-                "first": null,
+                "first": 1666530000,
                 "second": null
             },
             "venue": {
@@ -8584,9 +8584,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 14
             }
         },
         "league": {
@@ -8603,23 +8603,23 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -8779,7 +8779,7 @@
             "date": "2022-10-23T13:00:00+00:00",
             "timestamp": 1666530000,
             "periods": {
-                "first": null,
+                "first": 1666530000,
                 "second": null
             },
             "venue": {
@@ -8788,9 +8788,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 13
             }
         },
         "league": {
@@ -8807,23 +8807,23 @@
                 "id": 39,
                 "name": "Wolves",
                 "logo": "https://media.api-sports.io/football/teams/39.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
