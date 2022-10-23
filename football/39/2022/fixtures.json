@@ -8644,7 +8644,7 @@
             "timestamp": 1666539000,
             "periods": {
                 "first": 1666539000,
-                "second": null
+                "second": 1666542600
             },
             "venue": {
                 "id": 593,
@@ -8652,9 +8652,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 74
             }
         },
         "league": {
@@ -8681,7 +8681,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         },
         "score": {
