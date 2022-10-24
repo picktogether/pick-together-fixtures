@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 868056,
-            "referee": "John Brooks, England",
+            "referee": "J. Brooks",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 868058,
-            "referee": "Jarred Gillett, Australia",
+            "referee": "J. Gillett",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 868059,
-            "referee": "England Darren, England",
+            "referee": "D. England",
             "timezone": "UTC",
             "date": "2022-10-18T18:30:00+00:00",
             "timestamp": 1666117800,
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 868060,
-            "referee": "Michael Oliver, England",
+            "referee": "M. Oliver",
             "timezone": "UTC",
             "date": "2022-10-20T18:30:00+00:00",
             "timestamp": 1666290600,
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868061,
-            "referee": "Peter Bankes, England",
+            "referee": "P. Bankes",
             "timezone": "UTC",
             "date": "2022-10-20T19:15:00+00:00",
             "timestamp": 1666293300,
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 868062,
-            "referee": "David Coote, England",
+            "referee": "D. Coote",
             "timezone": "UTC",
             "date": "2022-10-18T19:15:00+00:00",
             "timestamp": 1666120500,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 868063,
-            "referee": "Tony Harrington, England",
+            "referee": "T. Harrington",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 868064,
-            "referee": "Stuart Attwell, England",
+            "referee": "S. Attwell",
             "timezone": "UTC",
             "date": "2022-10-19T18:30:00+00:00",
             "timestamp": 1666204200,
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868065,
-            "referee": "Simon Hooper, England",
+            "referee": "S. Hooper",
             "timezone": "UTC",
             "date": "2022-10-19T19:15:00+00:00",
             "timestamp": 1666206900,
