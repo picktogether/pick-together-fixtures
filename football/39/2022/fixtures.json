@@ -8712,7 +8712,7 @@
             "timestamp": 1666638000,
             "periods": {
                 "first": 1666638000,
-                "second": null
+                "second": 1666641600
             },
             "venue": {
                 "id": 598,
@@ -8720,9 +8720,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 43
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 69
             }
         },
         "league": {
@@ -8739,22 +8739,22 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
