@@ -8848,7 +8848,7 @@
             "timestamp": 1667052000,
             "periods": {
                 "first": 1667052000,
-                "second": null
+                "second": 1667055600
             },
             "venue": {
                 "id": 504,
@@ -8856,9 +8856,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 35
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 64
             }
         },
         "league": {
@@ -8885,8 +8885,8 @@
             }
         },
         "goals": {
-            "home": 1,
-            "away": 0
+            "home": 2,
+            "away": 1
         },
         "score": {
             "halftime": {
@@ -8984,7 +8984,7 @@
             "timestamp": 1667052000,
             "periods": {
                 "first": 1667052000,
-                "second": null
+                "second": 1667055600
             },
             "venue": {
                 "id": 10503,
@@ -8992,9 +8992,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 34
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 58
             }
         },
         "league": {
@@ -9021,8 +9021,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
@@ -9052,7 +9052,7 @@
             "timestamp": 1667052000,
             "periods": {
                 "first": 1667052000,
-                "second": null
+                "second": 1667055600
             },
             "venue": {
                 "id": 508,
@@ -9060,9 +9060,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 35
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 64
             }
         },
         "league": {
@@ -9089,12 +9089,12 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": 2,
+                "home": 3,
                 "away": 0
             },
             "fulltime": {
@@ -9120,7 +9120,7 @@
             "timestamp": 1667052000,
             "periods": {
                 "first": 1667052000,
-                "second": null
+                "second": 1667055600
             },
             "venue": {
                 "id": 525,
@@ -9128,9 +9128,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 35
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 63
             }
         },
         "league": {
@@ -9147,22 +9147,22 @@
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -9460,7 +9460,7 @@
             "timestamp": 1667052000,
             "periods": {
                 "first": 1667052000,
-                "second": null
+                "second": 1667055600
             },
             "venue": {
                 "id": 562,
@@ -9468,9 +9468,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 35
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 55
             }
         },
         "league": {
@@ -9487,22 +9487,22 @@
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
