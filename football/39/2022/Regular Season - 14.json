@@ -484,7 +484,7 @@
             "timestamp": 1667069100,
             "periods": {
                 "first": 1667069100,
-                "second": null
+                "second": 1667072700
             },
             "venue": {
                 "id": 550,
@@ -492,9 +492,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 40
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 82
             }
         },
         "league": {
