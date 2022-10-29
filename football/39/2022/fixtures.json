@@ -8858,7 +8858,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 20
+                "elapsed": 35
             }
         },
         "league": {
@@ -8875,22 +8875,22 @@
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -8994,7 +8994,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 20
+                "elapsed": 34
             }
         },
         "league": {
@@ -9062,7 +9062,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 20
+                "elapsed": 35
             }
         },
         "league": {
@@ -9130,7 +9130,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 20
+                "elapsed": 35
             }
         },
         "league": {
@@ -9470,7 +9470,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 20
+                "elapsed": 35
             }
         },
         "league": {
