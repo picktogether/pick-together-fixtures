@@ -8858,7 +8858,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 64
+                "elapsed": 79
             }
         },
         "league": {
@@ -8875,18 +8875,18 @@
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 2,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -8994,7 +8994,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 58
+                "elapsed": 73
             }
         },
         "league": {
@@ -9062,7 +9062,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 64
+                "elapsed": 79
             }
         },
         "league": {
@@ -9130,7 +9130,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 63
+                "elapsed": 78
             }
         },
         "league": {
@@ -9470,7 +9470,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 55
+                "elapsed": 70
             }
         },
         "league": {
@@ -9497,7 +9497,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 4,
             "away": 0
         },
         "score": {
