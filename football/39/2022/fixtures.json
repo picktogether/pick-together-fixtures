@@ -9264,9 +9264,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 3
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
