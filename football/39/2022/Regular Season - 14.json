@@ -348,7 +348,7 @@
             "timestamp": 1667061000,
             "periods": {
                 "first": 1667061000,
-                "second": null
+                "second": 1667064600
             },
             "venue": {
                 "id": 535,
@@ -356,9 +356,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -394,8 +394,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "extratime": {
                 "home": null,
