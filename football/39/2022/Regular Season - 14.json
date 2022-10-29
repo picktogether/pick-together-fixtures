@@ -7,7 +7,7 @@
             "date": "2022-10-29T14:00:00+00:00",
             "timestamp": 1667052000,
             "periods": {
-                "first": null,
+                "first": 1667052000,
                 "second": null
             },
             "venue": {
@@ -16,9 +16,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -45,13 +45,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -143,7 +143,7 @@
             "date": "2022-10-29T14:00:00+00:00",
             "timestamp": 1667052000,
             "periods": {
-                "first": null,
+                "first": 1667052000,
                 "second": null
             },
             "venue": {
@@ -152,9 +152,9 @@
                 "city": "Brentford, Middlesex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -181,13 +181,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -211,7 +211,7 @@
             "date": "2022-10-29T14:00:00+00:00",
             "timestamp": 1667052000,
             "periods": {
-                "first": null,
+                "first": 1667052000,
                 "second": null
             },
             "venue": {
@@ -220,9 +220,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -239,23 +239,23 @@
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
                 "logo": "https://media.api-sports.io/football/teams/49.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 2,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -279,7 +279,7 @@
             "date": "2022-10-29T14:00:00+00:00",
             "timestamp": 1667052000,
             "periods": {
-                "first": null,
+                "first": 1667052000,
                 "second": null
             },
             "venue": {
@@ -288,9 +288,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -317,13 +317,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -424,8 +424,8 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90
             }
         },
@@ -462,8 +462,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -619,7 +619,7 @@
             "date": "2022-10-29T14:00:00+00:00",
             "timestamp": 1667052000,
             "periods": {
-                "first": null,
+                "first": 1667052000,
                 "second": null
             },
             "venue": {
@@ -628,9 +628,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 20
             }
         },
         "league": {
@@ -657,13 +657,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
