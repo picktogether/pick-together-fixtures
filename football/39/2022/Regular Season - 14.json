@@ -415,7 +415,7 @@
             "date": "2022-10-29T11:30:00+00:00",
             "timestamp": 1667043000,
             "periods": {
-                "first": null,
+                "first": 1667043000,
                 "second": null
             },
             "venue": {
@@ -424,9 +424,9 @@
                 "city": "Leicester, Leicestershire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -453,13 +453,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
