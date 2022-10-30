@@ -551,7 +551,7 @@
             "date": "2022-10-30T16:15:00+00:00",
             "timestamp": 1667146500,
             "periods": {
-                "first": null,
+                "first": 1667146500,
                 "second": null
             },
             "venue": {
@@ -560,9 +560,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 45
             }
         },
         "league": {
@@ -579,23 +579,23 @@
                 "id": 33,
                 "name": "Manchester United",
                 "logo": "https://media.api-sports.io/football/teams/33.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
