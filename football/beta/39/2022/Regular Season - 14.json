@@ -76,7 +76,7 @@
             "timestamp": 1667138400,
             "periods": {
                 "first": 1667138400,
-                "second": null
+                "second": 1667142000
             },
             "venue": {
                 "id": 494,
@@ -84,9 +84,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -113,7 +113,7 @@
             }
         },
         "goals": {
-            "home": 1,
+            "home": 5,
             "away": 0
         },
         "score": {
@@ -122,8 +122,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 5,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 868084,
-            "referee": "W. Cavanagh",
+            "referee": "Chris Kavanagh, England",
             "timezone": "UTC",
             "date": "2022-10-30T16:15:00+00:00",
             "timestamp": 1667146500,
