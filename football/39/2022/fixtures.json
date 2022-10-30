@@ -9402,7 +9402,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 31
+                "elapsed": 45
             }
         },
         "league": {
@@ -9419,22 +9419,22 @@
                 "id": 33,
                 "name": "Manchester United",
                 "logo": "https://media.api-sports.io/football/teams/33.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
