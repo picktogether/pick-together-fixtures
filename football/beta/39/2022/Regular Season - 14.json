@@ -552,7 +552,7 @@
             "timestamp": 1667146500,
             "periods": {
                 "first": 1667146500,
-                "second": null
+                "second": 1667150100
             },
             "venue": {
                 "id": 556,
@@ -560,9 +560,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
