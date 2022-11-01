@@ -2,7 +2,7 @@
     {
         "fixture": {
             "id": 868086,
-            "referee": null,
+            "referee": "A. Taylor",
             "timezone": "UTC",
             "date": "2022-11-06T14:00:00+00:00",
             "timestamp": 1667743200,
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 868087,
-            "referee": null,
+            "referee": "M. Oliver",
             "timezone": "UTC",
             "date": "2022-11-06T12:00:00+00:00",
             "timestamp": 1667736000,
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 868088,
-            "referee": null,
+            "referee": "D. Coote",
             "timezone": "UTC",
             "date": "2022-11-05T17:30:00+00:00",
             "timestamp": 1667669400,
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 868089,
-            "referee": null,
+            "referee": "T. Harrington",
             "timezone": "UTC",
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 868090,
-            "referee": null,
+            "referee": "D. England",
             "timezone": "UTC",
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868091,
-            "referee": null,
+            "referee": "A. Marriner",
             "timezone": "UTC",
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
@@ -410,7 +410,7 @@
     {
         "fixture": {
             "id": 868092,
-            "referee": null,
+            "referee": "S. Attwell",
             "timezone": "UTC",
             "date": "2022-11-06T14:00:00+00:00",
             "timestamp": 1667743200,
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 868093,
-            "referee": null,
+            "referee": "A. Madley",
             "timezone": "UTC",
             "date": "2022-11-06T16:30:00+00:00",
             "timestamp": 1667752200,
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 868094,
-            "referee": null,
+            "referee": "P. Tierney",
             "timezone": "UTC",
             "date": "2022-11-06T14:00:00+00:00",
             "timestamp": 1667743200,
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868095,
-            "referee": null,
+            "referee": "G. Scott",
             "timezone": "UTC",
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
