@@ -9731,7 +9731,7 @@
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
             "periods": {
-                "first": null,
+                "first": 1667660400,
                 "second": null
             },
             "venue": {
@@ -9740,9 +9740,9 @@
                 "city": "Leeds, West Yorkshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5
             }
         },
         "league": {
@@ -9759,23 +9759,23 @@
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -9799,7 +9799,7 @@
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
             "periods": {
-                "first": null,
+                "first": 1667660400,
                 "second": null
             },
             "venue": {
@@ -9808,9 +9808,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5
             }
         },
         "league": {
@@ -9837,13 +9837,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -9867,7 +9867,7 @@
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
             "periods": {
-                "first": null,
+                "first": 1667660400,
                 "second": null
             },
             "venue": {
@@ -9876,9 +9876,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5
             }
         },
         "league": {
@@ -9905,13 +9905,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -10139,7 +10139,7 @@
             "date": "2022-11-05T15:00:00+00:00",
             "timestamp": 1667660400,
             "periods": {
-                "first": null,
+                "first": 1667660400,
                 "second": null
             },
             "venue": {
@@ -10148,9 +10148,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 5
             }
         },
         "league": {
@@ -10177,13 +10177,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
