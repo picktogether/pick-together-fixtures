@@ -9742,7 +9742,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 5
+                "elapsed": 19
             }
         },
         "league": {
@@ -9759,23 +9759,23 @@
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 1,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -9810,7 +9810,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 5
+                "elapsed": 19
             }
         },
         "league": {
@@ -9827,22 +9827,22 @@
                 "id": 50,
                 "name": "Manchester City",
                 "logo": "https://media.api-sports.io/football/teams/50.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 36,
                 "name": "Fulham",
                 "logo": "https://media.api-sports.io/football/teams/36.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 1,
                 "away": 0
             },
             "fulltime": {
@@ -9878,7 +9878,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 5
+                "elapsed": 19
             }
         },
         "league": {
@@ -10150,7 +10150,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 5
+                "elapsed": 19
             }
         },
         "league": {
@@ -10177,13 +10177,13 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 0
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
