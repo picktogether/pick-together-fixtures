@@ -9742,7 +9742,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 46
+                "elapsed": 60
             }
         },
         "league": {
@@ -9770,7 +9770,7 @@
         },
         "goals": {
             "home": 1,
-            "away": 2
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -9810,7 +9810,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 48
+                "elapsed": 62
             }
         },
         "league": {
@@ -9868,7 +9868,7 @@
             "timestamp": 1667660400,
             "periods": {
                 "first": 1667660400,
-                "second": null
+                "second": 1667664000
             },
             "venue": {
                 "id": 566,
@@ -9876,9 +9876,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 60
             }
         },
         "league": {
@@ -10140,7 +10140,7 @@
             "timestamp": 1667660400,
             "periods": {
                 "first": 1667660400,
-                "second": null
+                "second": 1667664000
             },
             "venue": {
                 "id": 600,
@@ -10148,9 +10148,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 57
             }
         },
         "league": {
