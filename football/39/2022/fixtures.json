@@ -9538,7 +9538,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 27
+                "elapsed": 41
             }
         },
         "league": {
@@ -9946,7 +9946,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 28
+                "elapsed": 42
             }
         },
         "league": {
@@ -9963,23 +9963,23 @@
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -10082,7 +10082,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 28
+                "elapsed": 42
             }
         },
         "league": {
@@ -10099,23 +10099,23 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": true
+                "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": false
+                "winner": null
             }
         },
         "goals": {
             "home": 1,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 1,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
