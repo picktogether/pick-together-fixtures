@@ -9536,9 +9536,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 83
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -9574,8 +9574,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 3,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -9944,9 +9944,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 82
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -9973,8 +9973,8 @@
             }
         },
         "goals": {
-            "home": 0,
-            "away": 3
+            "home": 1,
+            "away": 4
         },
         "score": {
             "halftime": {
@@ -9982,8 +9982,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 4
             },
             "extratime": {
                 "home": null,
@@ -9998,7 +9998,7 @@
     {
         "fixture": {
             "id": 868093,
-            "referee": "A. Madley",
+            "referee": "Andy Madley, England",
             "timezone": "UTC",
             "date": "2022-11-06T16:30:00+00:00",
             "timestamp": 1667752200,
@@ -10080,9 +10080,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 84
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -10099,18 +10099,18 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -10118,8 +10118,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
