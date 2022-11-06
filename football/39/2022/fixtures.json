@@ -9528,7 +9528,7 @@
             "timestamp": 1667743200,
             "periods": {
                 "first": 1667743200,
-                "second": null
+                "second": 1667746800
             },
             "venue": {
                 "id": 495,
@@ -9536,9 +9536,9 @@
                 "city": "Birmingham"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 41
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 69
             }
         },
         "league": {
@@ -9565,13 +9565,13 @@
             }
         },
         "goals": {
-            "home": 2,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 2,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -9936,7 +9936,7 @@
             "timestamp": 1667743200,
             "periods": {
                 "first": 1667743200,
-                "second": null
+                "second": 1667746800
             },
             "venue": {
                 "id": 585,
@@ -9944,9 +9944,9 @@
                 "city": "Southampton, Hampshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 42
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 68
             }
         },
         "league": {
@@ -9974,7 +9974,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -10072,7 +10072,7 @@
             "timestamp": 1667743200,
             "periods": {
                 "first": 1667743200,
-                "second": null
+                "second": 1667746800
             },
             "venue": {
                 "id": 598,
@@ -10080,9 +10080,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 42
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 70
             }
         },
         "league": {
