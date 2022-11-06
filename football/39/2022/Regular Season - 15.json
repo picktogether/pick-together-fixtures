@@ -484,7 +484,7 @@
             "timestamp": 1667752200,
             "periods": {
                 "first": 1667752200,
-                "second": null
+                "second": 1667755800
             },
             "venue": {
                 "id": 593,
@@ -492,9 +492,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -521,7 +521,7 @@
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 2
         },
         "score": {
@@ -530,8 +530,8 @@
                 "away": 2
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
