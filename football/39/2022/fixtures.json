@@ -10830,7 +10830,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 50
+                "elapsed": 66
             }
         },
         "league": {
@@ -10847,18 +10847,18 @@
                 "id": 39,
                 "name": "Wolves",
                 "logo": "https://media.api-sports.io/football/teams/39.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
