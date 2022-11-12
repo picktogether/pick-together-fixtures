@@ -628,9 +628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 50
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -647,18 +647,18 @@
                 "id": 39,
                 "name": "Wolves",
                 "logo": "https://media.api-sports.io/football/teams/39.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -666,8 +666,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 2
             },
             "extratime": {
                 "home": null,
