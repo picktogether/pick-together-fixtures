@@ -10216,8 +10216,8 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
+                "long": "Halftime",
+                "short": "HT",
                 "elapsed": 45
             }
         },
@@ -10412,7 +10412,7 @@
             "timestamp": 1668265200,
             "periods": {
                 "first": 1668265200,
-                "second": null
+                "second": 1668268800
             },
             "venue": {
                 "id": 550,
@@ -10420,9 +10420,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47
             }
         },
         "league": {
@@ -10616,7 +10616,7 @@
             "timestamp": 1668265200,
             "periods": {
                 "first": 1668265200,
-                "second": null
+                "second": 1668268800
             },
             "venue": {
                 "id": 566,
@@ -10624,9 +10624,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 48
             }
         },
         "league": {
@@ -10684,7 +10684,7 @@
             "timestamp": 1668265200,
             "periods": {
                 "first": 1668265200,
-                "second": null
+                "second": 1668268800
             },
             "venue": {
                 "id": 593,
@@ -10692,9 +10692,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 47
             }
         },
         "league": {
@@ -10760,8 +10760,8 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
+                "long": "Halftime",
+                "short": "HT",
                 "elapsed": 45
             }
         },
