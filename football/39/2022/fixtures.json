@@ -10218,7 +10218,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 4
+                "elapsed": 45
             }
         },
         "league": {
@@ -10235,22 +10235,22 @@
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
                 "logo": "https://media.api-sports.io/football/teams/45.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 2,
             "away": 0
         },
         "score": {
             "halftime": {
-                "home": 0,
+                "home": 2,
                 "away": 0
             },
             "fulltime": {
@@ -10420,9 +10420,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 4
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -10439,23 +10439,23 @@
                 "id": 40,
                 "name": "Liverpool",
                 "logo": "https://media.api-sports.io/football/teams/40.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 41,
                 "name": "Southampton",
                 "logo": "https://media.api-sports.io/football/teams/41.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 3,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 0
+                "home": 3,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
@@ -10624,9 +10624,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 4
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -10692,9 +10692,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 4
+                "long": "Halftime",
+                "short": "HT",
+                "elapsed": 45
             }
         },
         "league": {
@@ -10711,23 +10711,23 @@
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
-            "home": 0,
-            "away": 0
+            "home": 1,
+            "away": 2
         },
         "score": {
             "halftime": {
-                "home": 0,
-                "away": 0
+                "home": 1,
+                "away": 2
             },
             "fulltime": {
                 "home": null,
@@ -10762,7 +10762,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 4
+                "elapsed": 45
             }
         },
         "league": {
@@ -10779,23 +10779,23 @@
                 "id": 48,
                 "name": "West Ham",
                 "logo": "https://media.api-sports.io/football/teams/48.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 46,
                 "name": "Leicester",
                 "logo": "https://media.api-sports.io/football/teams/46.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
