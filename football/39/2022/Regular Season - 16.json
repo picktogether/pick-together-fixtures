@@ -356,9 +356,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 61
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -375,17 +375,17 @@
                 "id": 34,
                 "name": "Newcastle",
                 "logo": "https://media.api-sports.io/football/teams/34.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 49,
                 "name": "Chelsea",
                 "logo": "https://media.api-sports.io/football/teams/49.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
@@ -394,8 +394,8 @@
                 "away": 0
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 0
             },
             "extratime": {
                 "home": null,
@@ -614,12 +614,12 @@
     {
         "fixture": {
             "id": 868105,
-            "referee": "S. Attwell",
+            "referee": "Stuart Attwell, England",
             "timezone": "UTC",
             "date": "2022-11-12T19:45:00+00:00",
             "timestamp": 1668282300,
             "periods": {
-                "first": null,
+                "first": 1668282300,
                 "second": null
             },
             "venue": {
@@ -628,9 +628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 7
             }
         },
         "league": {
@@ -657,13 +657,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
