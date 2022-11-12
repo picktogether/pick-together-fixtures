@@ -10208,7 +10208,7 @@
             "timestamp": 1668265200,
             "periods": {
                 "first": 1668265200,
-                "second": null
+                "second": 1668268800
             },
             "venue": {
                 "id": 504,
@@ -10216,9 +10216,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 87
             }
         },
         "league": {
@@ -10245,7 +10245,7 @@
             }
         },
         "goals": {
-            "home": 2,
+            "home": 3,
             "away": 0
         },
         "score": {
@@ -10422,7 +10422,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 47
+                "elapsed": 90
             }
         },
         "league": {
@@ -10626,7 +10626,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 48
+                "elapsed": 90
             }
         },
         "league": {
@@ -10643,17 +10643,17 @@
                 "id": 65,
                 "name": "Nottingham Forest",
                 "logo": "https://media.api-sports.io/football/teams/65.png",
-                "winner": null
+                "winner": true
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
                 "logo": "https://media.api-sports.io/football/teams/52.png",
-                "winner": null
+                "winner": false
             }
         },
         "goals": {
-            "home": 0,
+            "home": 1,
             "away": 0
         },
         "score": {
@@ -10694,7 +10694,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 47
+                "elapsed": 90
             }
         },
         "league": {
@@ -10711,18 +10711,18 @@
                 "id": 47,
                 "name": "Tottenham",
                 "logo": "https://media.api-sports.io/football/teams/47.png",
-                "winner": false
+                "winner": true
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media.api-sports.io/football/teams/63.png",
-                "winner": true
+                "winner": false
             }
         },
         "goals": {
-            "home": 1,
-            "away": 2
+            "home": 4,
+            "away": 3
         },
         "score": {
             "halftime": {
@@ -10752,7 +10752,7 @@
             "timestamp": 1668265200,
             "periods": {
                 "first": 1668265200,
-                "second": null
+                "second": 1668268800
             },
             "venue": {
                 "id": 598,
@@ -10760,9 +10760,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Halftime",
-                "short": "HT",
-                "elapsed": 45
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 90
             }
         },
         "league": {
@@ -10790,7 +10790,7 @@
         },
         "goals": {
             "home": 0,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
