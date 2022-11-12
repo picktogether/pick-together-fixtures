@@ -2,12 +2,12 @@
     {
         "fixture": {
             "id": 868096,
-            "referee": "C. Pawson",
+            "referee": "Craig Pawson, England",
             "timezone": "UTC",
             "date": "2022-11-12T15:00:00+00:00",
             "timestamp": 1668265200,
             "periods": {
-                "first": null,
+                "first": 1668265200,
                 "second": null
             },
             "venue": {
@@ -16,9 +16,9 @@
                 "city": "Bournemouth, Dorset"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 4
             }
         },
         "league": {
@@ -45,13 +45,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -206,12 +206,12 @@
     {
         "fixture": {
             "id": 868099,
-            "referee": "S. Hooper",
+            "referee": "Simon Hooper, England",
             "timezone": "UTC",
             "date": "2022-11-12T15:00:00+00:00",
             "timestamp": 1668265200,
             "periods": {
-                "first": null,
+                "first": 1668265200,
                 "second": null
             },
             "venue": {
@@ -220,9 +220,9 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 4
             }
         },
         "league": {
@@ -249,13 +249,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -288,9 +288,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 72
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -307,18 +307,18 @@
                 "id": 50,
                 "name": "Manchester City",
                 "logo": "https://media.api-sports.io/football/teams/50.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 55,
                 "name": "Brentford",
                 "logo": "https://media.api-sports.io/football/teams/55.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
@@ -326,8 +326,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -410,12 +410,12 @@
     {
         "fixture": {
             "id": 868102,
-            "referee": "J. Brooks",
+            "referee": "John Brooks, England",
             "timezone": "UTC",
             "date": "2022-11-12T15:00:00+00:00",
             "timestamp": 1668265200,
             "periods": {
-                "first": null,
+                "first": 1668265200,
                 "second": null
             },
             "venue": {
@@ -424,9 +424,9 @@
                 "city": "Nottingham, Nottinghamshire"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 4
             }
         },
         "league": {
@@ -453,13 +453,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -478,12 +478,12 @@
     {
         "fixture": {
             "id": 868103,
-            "referee": "M. Salisbury",
+            "referee": "Salisbury Michael, England",
             "timezone": "UTC",
             "date": "2022-11-12T15:00:00+00:00",
             "timestamp": 1668265200,
             "periods": {
-                "first": null,
+                "first": 1668265200,
                 "second": null
             },
             "venue": {
@@ -492,9 +492,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 4
             }
         },
         "league": {
@@ -521,13 +521,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
@@ -546,12 +546,12 @@
     {
         "fixture": {
             "id": 868104,
-            "referee": "J. Gillett",
+            "referee": "Jarred Gillett, Australia",
             "timezone": "UTC",
             "date": "2022-11-12T15:00:00+00:00",
             "timestamp": 1668265200,
             "periods": {
-                "first": null,
+                "first": 1668265200,
                 "second": null
             },
             "venue": {
@@ -560,9 +560,9 @@
                 "city": "London"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 4
             }
         },
         "league": {
@@ -589,13 +589,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
