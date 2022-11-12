@@ -10490,7 +10490,7 @@
             "status": {
                 "long": "First Half",
                 "short": "1H",
-                "elapsed": 15
+                "elapsed": 30
             }
         },
         "league": {
@@ -10507,23 +10507,23 @@
                 "id": 50,
                 "name": "Manchester City",
                 "logo": "https://media.api-sports.io/football/teams/50.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 55,
                 "name": "Brentford",
                 "logo": "https://media.api-sports.io/football/teams/55.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
                 "home": 0,
-                "away": 0
+                "away": 1
             },
             "fulltime": {
                 "home": null,
