@@ -348,7 +348,7 @@
             "timestamp": 1668274200,
             "periods": {
                 "first": 1668274200,
-                "second": null
+                "second": 1668277800
             },
             "venue": {
                 "id": 562,
@@ -356,9 +356,9 @@
                 "city": "Newcastle upon Tyne"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 20
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 61
             }
         },
         "league": {
