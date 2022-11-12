@@ -620,7 +620,7 @@
             "timestamp": 1668282300,
             "periods": {
                 "first": 1668282300,
-                "second": null
+                "second": 1668285900
             },
             "venue": {
                 "id": 600,
@@ -628,9 +628,9 @@
                 "city": "Wolverhampton, West Midlands"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 23
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 66
             }
         },
         "league": {
@@ -647,18 +647,18 @@
                 "id": 39,
                 "name": "Wolves",
                 "logo": "https://media.api-sports.io/football/teams/39.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
                 "logo": "https://media.api-sports.io/football/teams/42.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 0,
-            "away": 0
+            "away": 1
         },
         "score": {
             "halftime": {
