@@ -10479,7 +10479,7 @@
             "date": "2022-11-12T12:30:00+00:00",
             "timestamp": 1668256200,
             "periods": {
-                "first": null,
+                "first": 1668256200,
                 "second": null
             },
             "venue": {
@@ -10488,9 +10488,9 @@
                 "city": "Manchester"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 15
             }
         },
         "league": {
@@ -10517,13 +10517,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 0,
+            "away": 0
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 0,
+                "away": 0
             },
             "fulltime": {
                 "home": null,
