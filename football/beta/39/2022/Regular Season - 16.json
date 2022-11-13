@@ -75,7 +75,7 @@
             "date": "2022-11-13T14:00:00+00:00",
             "timestamp": 1668348000,
             "periods": {
-                "first": null,
+                "first": 1668348000,
                 "second": null
             },
             "venue": {
@@ -84,9 +84,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Not Started",
-                "short": "NS",
-                "elapsed": null
+                "long": "First Half",
+                "short": "1H",
+                "elapsed": 26
             }
         },
         "league": {
@@ -113,13 +113,13 @@
             }
         },
         "goals": {
-            "home": null,
-            "away": null
+            "home": 1,
+            "away": 1
         },
         "score": {
             "halftime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 1
             },
             "fulltime": {
                 "home": null,
