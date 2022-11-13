@@ -10286,7 +10286,7 @@
             "status": {
                 "long": "Second Half",
                 "short": "2H",
-                "elapsed": 51
+                "elapsed": 67
             }
         },
         "league": {
@@ -10303,18 +10303,18 @@
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
