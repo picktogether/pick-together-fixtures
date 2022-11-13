@@ -10284,9 +10284,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
-                "elapsed": 67
+                "long": "Match Finished",
+                "short": "FT",
+                "elapsed": 90
             }
         },
         "league": {
@@ -10322,8 +10322,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 1,
+                "away": 2
             },
             "extratime": {
                 "home": null,
@@ -10338,7 +10338,7 @@
     {
         "fixture": {
             "id": 868098,
-            "referee": "P. Tierney",
+            "referee": "Paul Tierney, England",
             "timezone": "UTC",
             "date": "2022-11-13T16:30:00+00:00",
             "timestamp": 1668357000,
