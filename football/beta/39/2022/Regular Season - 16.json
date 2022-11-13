@@ -76,7 +76,7 @@
             "timestamp": 1668348000,
             "periods": {
                 "first": 1668348000,
-                "second": null
+                "second": 1668351600
             },
             "venue": {
                 "id": 508,
@@ -84,9 +84,9 @@
                 "city": "Falmer, East Sussex"
             },
             "status": {
-                "long": "First Half",
-                "short": "1H",
-                "elapsed": 26
+                "long": "Second Half",
+                "short": "2H",
+                "elapsed": 67
             }
         },
         "league": {
@@ -103,18 +103,18 @@
                 "id": 51,
                 "name": "Brighton",
                 "logo": "https://media.api-sports.io/football/teams/51.png",
-                "winner": null
+                "winner": false
             },
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
                 "logo": "https://media.api-sports.io/football/teams/66.png",
-                "winner": null
+                "winner": true
             }
         },
         "goals": {
             "home": 1,
-            "away": 1
+            "away": 2
         },
         "score": {
             "halftime": {
