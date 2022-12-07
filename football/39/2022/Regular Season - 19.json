@@ -205,6 +205,74 @@
     },
     {
         "fixture": {
+            "id": 868132,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2023-01-04T19:45:00+00:00",
+            "timestamp": 1672861500,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 546,
+                "name": "Elland Road",
+                "city": "Leeds, West Yorkshire"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 19"
+        },
+        "teams": {
+            "home": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
+                "winner": null
+            },
+            "away": {
+                "id": 48,
+                "name": "West Ham",
+                "logo": "https://media.api-sports.io/football/teams/48.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
             "id": 868133,
             "referee": null,
             "timezone": "UTC",
@@ -313,6 +381,74 @@
                 "id": 35,
                 "name": "Bournemouth",
                 "logo": "https://media.api-sports.io/football/teams/35.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 868135,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2023-01-04T19:30:00+00:00",
+            "timestamp": 1672860600,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 585,
+                "name": "St. Mary's Stadium",
+                "city": "Southampton, Hampshire"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 19"
+        },
+        "teams": {
+            "home": {
+                "id": 41,
+                "name": "Southampton",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "winner": null
+            },
+            "away": {
+                "id": 65,
+                "name": "Nottingham Forest",
+                "logo": "https://media.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
