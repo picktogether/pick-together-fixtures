@@ -26,7 +26,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -34,13 +34,13 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-1.api-sports.io/football/teams/35.png",
+                "logo": "https://media-2.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-2.api-sports.io/football/teams/52.png",
+                "logo": "https://media-1.api-sports.io/football/teams/52.png",
                 "winner": null
             }
         },
@@ -94,7 +94,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -108,7 +108,7 @@
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-2.api-sports.io/football/teams/42.png",
+                "logo": "https://media-1.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -162,7 +162,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -170,7 +170,7 @@
             "home": {
                 "id": 36,
                 "name": "Fulham",
-                "logo": "https://media-1.api-sports.io/football/teams/36.png",
+                "logo": "https://media-2.api-sports.io/football/teams/36.png",
                 "winner": null
             },
             "away": {
@@ -230,7 +230,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -244,7 +244,7 @@
             "away": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-1.api-sports.io/football/teams/46.png",
+                "logo": "https://media-2.api-sports.io/football/teams/46.png",
                 "winner": null
             }
         },
@@ -298,7 +298,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -366,7 +366,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -380,7 +380,7 @@
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-1.api-sports.io/football/teams/63.png",
+                "logo": "https://media-2.api-sports.io/football/teams/63.png",
                 "winner": null
             }
         },
@@ -434,7 +434,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -448,7 +448,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-1.api-sports.io/football/teams/49.png",
+                "logo": "https://media-2.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -502,7 +502,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -510,7 +510,7 @@
             "home": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-2.api-sports.io/football/teams/47.png",
+                "logo": "https://media-1.api-sports.io/football/teams/47.png",
                 "winner": null
             },
             "away": {
@@ -570,7 +570,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -578,7 +578,7 @@
             "home": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-2.api-sports.io/football/teams/48.png",
+                "logo": "https://media-1.api-sports.io/football/teams/48.png",
                 "winner": null
             },
             "away": {
@@ -638,7 +638,7 @@
             "name": "Premier League",
             "country": "England",
             "logo": "https://media-1.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-2.api-sports.io/flags/gb.svg",
+            "flag": "https://media-1.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 18"
         },
@@ -652,7 +652,7 @@
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-2.api-sports.io/football/teams/33.png",
+                "logo": "https://media-1.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
