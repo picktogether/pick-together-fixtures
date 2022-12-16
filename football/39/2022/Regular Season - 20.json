@@ -1,0 +1,70 @@
+[
+    {
+        "fixture": {
+            "id": 868136,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2023-01-13T20:00:00+00:00",
+            "timestamp": 1673640000,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 495,
+                "name": "Villa Park",
+                "city": "Birmingham"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media-5.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 20"
+        },
+        "teams": {
+            "home": {
+                "id": 66,
+                "name": "Aston Villa",
+                "logo": "https://media-6.api-sports.io/football/teams/66.png",
+                "winner": null
+            },
+            "away": {
+                "id": 63,
+                "name": "Leeds",
+                "logo": "https://media-1.api-sports.io/football/teams/63.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    }
+]
