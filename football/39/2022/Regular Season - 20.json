@@ -25,8 +25,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-5.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-5.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-6.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 20"
         },
@@ -34,13 +34,81 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-2.api-sports.io/football/teams/66.png",
+                "logo": "https://media-1.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
                 "logo": "https://media-5.api-sports.io/football/teams/63.png",
+                "winner": null
+            }
+        },
+        "goals": {
+            "home": null,
+            "away": null
+        },
+        "score": {
+            "halftime": {
+                "home": null,
+                "away": null
+            },
+            "fulltime": {
+                "home": null,
+                "away": null
+            },
+            "extratime": {
+                "home": null,
+                "away": null
+            },
+            "penalty": {
+                "home": null,
+                "away": null
+            }
+        }
+    },
+    {
+        "fixture": {
+            "id": 868141,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2023-01-14T12:30:00+00:00",
+            "timestamp": 1673699400,
+            "periods": {
+                "first": null,
+                "second": null
+            },
+            "venue": {
+                "id": 556,
+                "name": "Old Trafford",
+                "city": "Manchester"
+            },
+            "status": {
+                "long": "Not Started",
+                "short": "NS",
+                "elapsed": null
+            }
+        },
+        "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "season": 2022,
+            "round": "Regular Season - 20"
+        },
+        "teams": {
+            "home": {
+                "id": 33,
+                "name": "Manchester United",
+                "logo": "https://media-4.api-sports.io/football/teams/33.png",
+                "winner": null
+            },
+            "away": {
+                "id": 50,
+                "name": "Manchester City",
+                "logo": "https://media-5.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
