@@ -25,8 +25,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -40,7 +40,7 @@
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-5.api-sports.io/football/teams/34.png",
+                "logo": "https://media-6.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -70,7 +70,7 @@
     {
         "fixture": {
             "id": 868127,
-            "referee": null,
+            "referee": "J. Gillett",
             "timezone": "UTC",
             "date": "2023-01-04T20:00:00+00:00",
             "timestamp": 1672862400,
@@ -93,8 +93,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -102,13 +102,13 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-6.api-sports.io/football/teams/66.png",
+                "logo": "https://media-5.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media-5.api-sports.io/football/teams/39.png",
+                "logo": "https://media-4.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -138,7 +138,7 @@
     {
         "fixture": {
             "id": 868128,
-            "referee": null,
+            "referee": "S. Attwell",
             "timezone": "UTC",
             "date": "2023-01-02T17:30:00+00:00",
             "timestamp": 1672680600,
@@ -161,8 +161,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -176,7 +176,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-4.api-sports.io/football/teams/40.png",
+                "logo": "https://media-6.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -206,7 +206,7 @@
     {
         "fixture": {
             "id": 868129,
-            "referee": null,
+            "referee": "P. Tierney",
             "timezone": "UTC",
             "date": "2023-01-05T20:00:00+00:00",
             "timestamp": 1672948800,
@@ -229,8 +229,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -238,13 +238,13 @@
             "home": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media-4.api-sports.io/football/teams/49.png",
+                "logo": "https://media-5.api-sports.io/football/teams/49.png",
                 "winner": null
             },
             "away": {
                 "id": 50,
                 "name": "Manchester City",
-                "logo": "https://media-4.api-sports.io/football/teams/50.png",
+                "logo": "https://media-5.api-sports.io/football/teams/50.png",
                 "winner": null
             }
         },
@@ -274,7 +274,7 @@
     {
         "fixture": {
             "id": 868130,
-            "referee": null,
+            "referee": "M. Oliver",
             "timezone": "UTC",
             "date": "2023-01-04T20:00:00+00:00",
             "timestamp": 1672862400,
@@ -297,8 +297,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -306,7 +306,7 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-5.api-sports.io/football/teams/52.png",
+                "logo": "https://media-4.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
@@ -342,7 +342,7 @@
     {
         "fixture": {
             "id": 868131,
-            "referee": null,
+            "referee": "A. Marriner",
             "timezone": "UTC",
             "date": "2023-01-03T19:45:00+00:00",
             "timestamp": 1672775100,
@@ -365,8 +365,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -374,13 +374,13 @@
             "home": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-4.api-sports.io/football/teams/45.png",
+                "logo": "https://media-5.api-sports.io/football/teams/45.png",
                 "winner": null
             },
             "away": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-5.api-sports.io/football/teams/51.png",
+                "logo": "https://media-4.api-sports.io/football/teams/51.png",
                 "winner": null
             }
         },
@@ -433,8 +433,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -442,13 +442,13 @@
             "home": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-5.api-sports.io/football/teams/63.png",
+                "logo": "https://media-4.api-sports.io/football/teams/63.png",
                 "winner": null
             },
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-4.api-sports.io/football/teams/48.png",
+                "logo": "https://media-6.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -478,7 +478,7 @@
     {
         "fixture": {
             "id": 868133,
-            "referee": null,
+            "referee": "D. Bond",
             "timezone": "UTC",
             "date": "2023-01-03T19:45:00+00:00",
             "timestamp": 1672775100,
@@ -501,8 +501,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -546,7 +546,7 @@
     {
         "fixture": {
             "id": 868134,
-            "referee": null,
+            "referee": "M. Salisbury",
             "timezone": "UTC",
             "date": "2023-01-03T20:00:00+00:00",
             "timestamp": 1672776000,
@@ -569,8 +569,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -578,13 +578,13 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-4.api-sports.io/football/teams/33.png",
+                "logo": "https://media-6.api-sports.io/football/teams/33.png",
                 "winner": null
             },
             "away": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-4.api-sports.io/football/teams/35.png",
+                "logo": "https://media-6.api-sports.io/football/teams/35.png",
                 "winner": null
             }
         },
@@ -614,7 +614,7 @@
     {
         "fixture": {
             "id": 868135,
-            "referee": null,
+            "referee": "T. Bramall",
             "timezone": "UTC",
             "date": "2023-01-04T19:30:00+00:00",
             "timestamp": 1672860600,
@@ -637,8 +637,8 @@
             "id": 39,
             "name": "Premier League",
             "country": "England",
-            "logo": "https://media-6.api-sports.io/football/leagues/39.png",
-            "flag": "https://media-6.api-sports.io/flags/gb.svg",
+            "logo": "https://media-4.api-sports.io/football/leagues/39.png",
+            "flag": "https://media-5.api-sports.io/flags/gb.svg",
             "season": 2022,
             "round": "Regular Season - 19"
         },
@@ -646,7 +646,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-4.api-sports.io/football/teams/41.png",
+                "logo": "https://media-6.api-sports.io/football/teams/41.png",
                 "winner": null
             },
             "away": {
