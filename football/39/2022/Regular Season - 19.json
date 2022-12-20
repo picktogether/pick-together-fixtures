@@ -34,13 +34,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media-4.api-sports.io/football/teams/42.png",
+                "logo": "https://media-5.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-5.api-sports.io/football/teams/34.png",
+                "logo": "https://media-6.api-sports.io/football/teams/34.png",
                 "winner": null
             }
         },
@@ -102,7 +102,7 @@
             "home": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media-5.api-sports.io/football/teams/66.png",
+                "logo": "https://media-6.api-sports.io/football/teams/66.png",
                 "winner": null
             },
             "away": {
@@ -176,7 +176,7 @@
             "away": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media-4.api-sports.io/football/teams/40.png",
+                "logo": "https://media-5.api-sports.io/football/teams/40.png",
                 "winner": null
             }
         },
@@ -306,13 +306,13 @@
             "home": {
                 "id": 52,
                 "name": "Crystal Palace",
-                "logo": "https://media-5.api-sports.io/football/teams/52.png",
+                "logo": "https://media-4.api-sports.io/football/teams/52.png",
                 "winner": null
             },
             "away": {
                 "id": 47,
                 "name": "Tottenham",
-                "logo": "https://media-6.api-sports.io/football/teams/47.png",
+                "logo": "https://media-4.api-sports.io/football/teams/47.png",
                 "winner": null
             }
         },
@@ -448,7 +448,7 @@
             "away": {
                 "id": 48,
                 "name": "West Ham",
-                "logo": "https://media-6.api-sports.io/football/teams/48.png",
+                "logo": "https://media-5.api-sports.io/football/teams/48.png",
                 "winner": null
             }
         },
@@ -510,7 +510,7 @@
             "home": {
                 "id": 46,
                 "name": "Leicester",
-                "logo": "https://media-6.api-sports.io/football/teams/46.png",
+                "logo": "https://media-4.api-sports.io/football/teams/46.png",
                 "winner": null
             },
             "away": {
@@ -578,7 +578,7 @@
             "home": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media-6.api-sports.io/football/teams/33.png",
+                "logo": "https://media-4.api-sports.io/football/teams/33.png",
                 "winner": null
             },
             "away": {
