@@ -34,7 +34,7 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-1.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
@@ -102,13 +102,13 @@
             "home": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-1.api-sports.io/football/teams/42.png",
                 "winner": null
             },
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media-1.api-sports.io/football/teams/45.png",
+                "logo": "https://media.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -312,7 +312,7 @@
             "away": {
                 "id": 65,
                 "name": "Nottingham Forest",
-                "logo": "https://media.api-sports.io/football/teams/65.png",
+                "logo": "https://media-1.api-sports.io/football/teams/65.png",
                 "winner": null
             }
         },
@@ -380,7 +380,7 @@
             "away": {
                 "id": 66,
                 "name": "Aston Villa",
-                "logo": "https://media.api-sports.io/football/teams/66.png",
+                "logo": "https://media-1.api-sports.io/football/teams/66.png",
                 "winner": null
             }
         },
@@ -442,13 +442,13 @@
             "home": {
                 "id": 40,
                 "name": "Liverpool",
-                "logo": "https://media.api-sports.io/football/teams/40.png",
+                "logo": "https://media-1.api-sports.io/football/teams/40.png",
                 "winner": null
             },
             "away": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-1.api-sports.io/football/teams/39.png",
                 "winner": null
             }
         },
@@ -578,7 +578,7 @@
             "home": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media-1.api-sports.io/football/teams/41.png",
+                "logo": "https://media.api-sports.io/football/teams/41.png",
                 "winner": null
             },
             "away": {
