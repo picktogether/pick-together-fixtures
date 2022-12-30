@@ -34,7 +34,7 @@
             "home": {
                 "id": 35,
                 "name": "Bournemouth",
-                "logo": "https://media-1.api-sports.io/football/teams/35.png",
+                "logo": "https://media.api-sports.io/football/teams/35.png",
                 "winner": null
             },
             "away": {
@@ -102,13 +102,13 @@
             "home": {
                 "id": 51,
                 "name": "Brighton",
-                "logo": "https://media-1.api-sports.io/football/teams/51.png",
+                "logo": "https://media.api-sports.io/football/teams/51.png",
                 "winner": null
             },
             "away": {
                 "id": 42,
                 "name": "Arsenal",
-                "logo": "https://media.api-sports.io/football/teams/42.png",
+                "logo": "https://media-1.api-sports.io/football/teams/42.png",
                 "winner": null
             }
         },
@@ -176,7 +176,7 @@
             "away": {
                 "id": 41,
                 "name": "Southampton",
-                "logo": "https://media.api-sports.io/football/teams/41.png",
+                "logo": "https://media-1.api-sports.io/football/teams/41.png",
                 "winner": null
             }
         },
@@ -220,8 +220,8 @@
                 "city": "Liverpool"
             },
             "status": {
-                "long": "Second Half",
-                "short": "2H",
+                "long": "Match Finished",
+                "short": "FT",
                 "elapsed": 90
             }
         },
@@ -258,8 +258,8 @@
                 "away": 1
             },
             "fulltime": {
-                "home": null,
-                "away": null
+                "home": 2,
+                "away": 1
             },
             "extratime": {
                 "home": null,
@@ -312,7 +312,7 @@
             "away": {
                 "id": 45,
                 "name": "Everton",
-                "logo": "https://media.api-sports.io/football/teams/45.png",
+                "logo": "https://media-1.api-sports.io/football/teams/45.png",
                 "winner": null
             }
         },
@@ -374,13 +374,13 @@
             "home": {
                 "id": 34,
                 "name": "Newcastle",
-                "logo": "https://media-1.api-sports.io/football/teams/34.png",
+                "logo": "https://media.api-sports.io/football/teams/34.png",
                 "winner": null
             },
             "away": {
                 "id": 63,
                 "name": "Leeds",
-                "logo": "https://media-1.api-sports.io/football/teams/63.png",
+                "logo": "https://media.api-sports.io/football/teams/63.png",
                 "winner": null
             }
         },
@@ -448,7 +448,7 @@
             "away": {
                 "id": 49,
                 "name": "Chelsea",
-                "logo": "https://media.api-sports.io/football/teams/49.png",
+                "logo": "https://media-1.api-sports.io/football/teams/49.png",
                 "winner": null
             }
         },
@@ -584,7 +584,7 @@
             "away": {
                 "id": 55,
                 "name": "Brentford",
-                "logo": "https://media.api-sports.io/football/teams/55.png",
+                "logo": "https://media-1.api-sports.io/football/teams/55.png",
                 "winner": true
             }
         },
@@ -646,13 +646,13 @@
             "home": {
                 "id": 39,
                 "name": "Wolves",
-                "logo": "https://media.api-sports.io/football/teams/39.png",
+                "logo": "https://media-1.api-sports.io/football/teams/39.png",
                 "winner": null
             },
             "away": {
                 "id": 33,
                 "name": "Manchester United",
-                "logo": "https://media.api-sports.io/football/teams/33.png",
+                "logo": "https://media-1.api-sports.io/football/teams/33.png",
                 "winner": null
             }
         },
